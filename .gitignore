@@ -1,0 +1,30 @@
+#MPLABX IDE specific ignores
+#Do this after every update of this file (example for root)
+# git rm -r --cached . // untracks all files from the Git index (cached staging area) without deleting
+# git add .
+# commit
+# sync up (May the --force be with you)
+
+*.d
+*.pre
+*.p1
+*.lst
+*.sym
+*.obj
+*.o
+*.sdb
+*.obj.dmp
+html/
+**/nbproject/private/
+**/nbproject/Package-*.bash
+.generated_files/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+funclist
+**/nbproject/Makefile-*
+disassembly/
+*.map
