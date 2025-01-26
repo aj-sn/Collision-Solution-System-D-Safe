@@ -72,6 +72,8 @@ This project is **not licensed**. All rights reserved.
 ## ⚠️ **Disclaimer**
 This project is not licensed. All rights are reserved. The code and accompanying instructions are provided solely for informational and educational purposes. Users are not permitted to use, modify, distribute, or implement the code in any form without explicit written permission from the author.
 
+This is a non-commercial, educational project and is not affiliated with any companies or organizations using the name "D-Safe".
+
 ---
 
 ## 🙌 **Acknowledgments**
